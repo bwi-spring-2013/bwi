@@ -51,4 +51,4 @@ apt_packages:
 ################################################################################
 
 default_user:
-  resolve: https://raw.github.com/utexas-bwi/bwi/master/bwi-update-config/user_config.yaml
+  resolve: https://raw.github.com/bwi-spring-2013/bwi/master/bwi-update-config/user_config.yaml
