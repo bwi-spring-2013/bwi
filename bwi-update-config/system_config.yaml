@@ -41,6 +41,9 @@ apt_packages:
     - ros-groovy-pr2-simulator
     - ros-groovy-rocon-multimaster
     - ros-groovy-zeroconf-avahi-suite
+    - ros-groovy-catkin
+    - ros-groovy-class-loader
+    - ros-groovy-serial
     - python-rosdep
     - python-rosrelease
     - python-rosinstall
