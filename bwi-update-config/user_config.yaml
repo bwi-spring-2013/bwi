@@ -16,6 +16,9 @@ ws:
       - svn: 
           local-name: cmvision
           uri: https://code.ros.org/svn/wg-ros-pkg/branches/trunk_cturtle/vision/cmvision
+      - git:
+          local-name: class-code
+          uri: https://github.com/bwi-spring-2013/class-code.git
 
   catkin:
     type: catkin
