@@ -19,6 +19,8 @@ ws:
       - git:
           local-name: class-code
           uri: https://github.com/bwi-spring-2013/class-code.git
+    patches:
+      - cmvision: http://www.cs.utexas.edu/~todd/cs378/cmvision.patch
 
   catkin:
     type: catkin
