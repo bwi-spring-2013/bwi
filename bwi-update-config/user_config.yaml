@@ -12,7 +12,7 @@ ws:
     rosinstall:
       - uri: https://raw.github.com/bwi-spring-2013/segbot/master/rosinstall/segbot.rosinstall
       - uri: https://raw.github.com/piyushk/freenect_stack/master/rosinstall/freenect.rosinstall 
-      - uri: https://raw.github.com/bwi-spring-2013/multi_level_map/master/rosinstall/multi_level_map.rosinstall
+      #- uri: https://raw.github.com/bwi-spring-2013/multi_level_map/master/rosinstall/multi_level_map.rosinstall
       - svn: 
           local-name: cmvision
           uri: https://code.ros.org/svn/wg-ros-pkg/branches/trunk_cturtle/vision/cmvision
